@@ -1,44 +1,46 @@
-<!--<img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
- 
-### Hi there 👋, I'm Christina Kopecky. I'm a web developer and technical writer. Welcome to my gh page! <br>
- 
-Resume:  [Christina Kopecky Resume](https://resume.christinakopecky.com) (PDF download)
- 
-🔭 *Currently working on*:  Articles that teach students and developers new-to-them technologies. Here are some examples of what I have been writing on: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [React Components: Class vs. Functional](https://careerkarma.com/blog/react-components/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Web Fundamentals: JavaScript Scopes and Closure](https://careerkarma.com/blog/javascript-closure/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [CSS Flexbox](https://careerkarma.com/blog/css-flexbox/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [MongoDB vs PostgreSQL: what to consider when choosing a database](https://www.educative.io/blog/mongodb-versus-postgresql-databases)<br>
- 
-🌱 *Currently Learning*: React-Native and Ruby<br>
-🤔 *Looking for help*: I'm looking for help with trying to find my first software engineering job in this current job climate.<br>
-💬 Ask me about: how to mentor students, creating a portfolio site for you, or assistance with an application you are working on. <br>
-📫 How to reach me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](christina@christinakopecky.com)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/cmvnk)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/cmvnk)
- 
-😄 Pronouns: She/Her/Hers <br>
-⚡ Fun facts:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :musical_note:  In my previous career I was a flutist and flute teacher. You can hear me play here: [Hypnosis by Ian Clarke](https://www.youtube.com/watch?v=6MiZszJjBIQ)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :fallen_leaf: My favorite season is fall :smile: <br>
- 
- 
-<!--
-**ckopecky/ckopecky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
-Here are some ideas to get you started:
- 
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!---
-RafaelRabaquim/RafaelRabaquim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# Olá visitante, bem vindo ao meu GitHub.
+### Sobre mim:
+<ul>
+ <li>📌 Sou do Brasil</li>
+ <li>🎓 Certificado Microsoft Excel</li>
+ <li>🖥️ Desenvolvedor em .Net <b>(C#, VB, VBA)</b></li>
+ <li>🖥️ Dba Jr. em SQL Server</li>
+ <li>💻 Dba na <b>[Financial HUB]</b></li>
+ <li>💻 Analista de dados, utilizando Excel
+</ul>
+
+---
+
+# Hello visitor, welcome to my GitHub.
+### About me
+<ul>
+ <li>📌 I'm from the Brazil</li>
+ <li>🎓 Microsoft Excel Certificate</li>
+ <li>🖥️ Developer .Net <b>(C#, VB, VBA)</b></li>
+ <li>🖥️ Dba Jr. em SQL Server</li>
+ <li>💻 Dba in <b>[Financial HUB]</b></li>
+ <li>💻 Data analyst, using Excel</li>
+</ul>
+
+---
+
+### Me encontre | Meet me here
+</br>
+<a href="https://www.linkedin.com/in/rafael-rabaquim/" alt="Linkedin">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+
+### Linguagens e ferramentas | Languages and tools
+<!--<a href="https://discord.com/channels/545968214463610890" alt="Discord">
+ <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>-->
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![VBA](https://img.shields.io/badge/developer-VBA-darkviolet?style=for-the-badge&logo=dotnet)&nbsp;
+![Power BI](https://img.shields.io/badge/Powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)&nbsp;
+![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)&nbsp;
+![Office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)&nbsp;
