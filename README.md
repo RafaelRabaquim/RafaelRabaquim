@@ -4,7 +4,6 @@
 <ul>
  <li>📌 I'm from the Brazil</li>
  <li>👨‍🎓 I'm currently learning NodeJS</li>
- <li>👨‍🎓 I'm currently learning Golang</li>
  <li>👨‍🎓 I keep studying</li>
  <li>🎓 Microsoft Excel Certificate</li>
  <li>🖥️ Developer .Net <b>(C#, VB, VBA)</b></li>
