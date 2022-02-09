@@ -8,7 +8,6 @@
  <li>🎓 Microsoft Excel Certificate</li>
  <li>🖥️ Developer .Net <b>(C#, VB, VBA)</b></li>
  <li>🖥️ Dba Jr. em SQL Server</li>
- <li>💻 Dba in <b>Financial HUB</b></li>
  <li>💻 Data analyst, using Python and Excel</li>
  <li>💻 Microsoft Power BI</li>
 </ul>
